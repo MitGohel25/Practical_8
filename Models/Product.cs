@@ -15,6 +15,6 @@ namespace Practical_8.Models
 
         public decimal Price { get; set; }
 
-
+            
     }
 }
